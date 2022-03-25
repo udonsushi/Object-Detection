@@ -1,1 +1,1 @@
-
+c.LabApp.collaborative = True
